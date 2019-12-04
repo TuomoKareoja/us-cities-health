@@ -1,0 +1,14 @@
+Main BCHI dataset
+
+Over 17,000 data points on different health indicators for the 28 BCHC member cities.
+It has more than 50 health, socio-economic, and demographic indicators across 11 categories.
+It is a standardized data collection hub that allows for comparability of health indicators across city jurisdictions.
+
+Comes from http://www.bigcitieshealth.org/city-data. See site for more information about the measures.
+
+Gini-index dataset
+
+Is not in metropolitan area level and not city. For example New York is mixed with New Jersey.
+This data was used because I could not find freely available city level data.
+
+Comes from https://datausa.io/
